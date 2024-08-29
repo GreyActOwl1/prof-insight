@@ -78,3 +78,10 @@
 .animate-pulse-once {
   animation: pulse 5s cubic-bezier(0, 0, 0.2, 1) 1;
 }
+
+.professor-insights-heading {
+  font-size: 4rem;
+  font-family: "New Amsterdam", sans-serif;
+  margin-left: 0.75rem;
+  margin-right: 0.75rem;
+}
